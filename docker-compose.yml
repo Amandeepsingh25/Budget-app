@@ -18,3 +18,4 @@ services:
       - POSTGRES_USER=Budgy
       - POSTGRES_PASSWORD=Budgy
       - POSTGRES_DB=budgy_development
+
